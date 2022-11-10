@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Student\PR6.2.IT\PR6.2.IT\PR6.2.IT.cpp(49,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Student\PR6.2.IT\UnitTest1\UnitTest1.cpp(15,8): warning C4101: 't': unreferenced local variable
+  UnitTest1.vcxproj -> C:\Student\PR6.2.IT\x64\Debug\UnitTest1.dll
